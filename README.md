@@ -20,7 +20,7 @@
 <img width="776" alt="스크린샷 2022-01-16 오전 12 42 16" src="https://user-images.githubusercontent.com/97378861/149627875-96bd2d58-2d9e-47b0-9bca-6d4c0f2e9299.png">  
 
 - 서버 내 백그라운드 실행하고 싶은 경우 (봇 토큰 미리 입력 필수)  
-```nohup python3 floorcheck.py &``` or ```nohup python floorcheck.py &```
+```nohup python3 mkRanking.py &``` or ```nohup python mkRanking.py &```
 
 ## Command
 - !rank 콩즈-번호  
